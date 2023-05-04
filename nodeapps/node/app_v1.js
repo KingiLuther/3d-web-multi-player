@@ -1,3 +1,4 @@
+// 这是一个简单的node.js应用
 const http = require('http');
 
 const hostname = '127.0.0.1';
